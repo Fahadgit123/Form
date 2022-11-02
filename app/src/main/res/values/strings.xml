@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string-array name="country">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakista</item>
+    </string-array>
+    <string-array name="citybang">
+        <item>Dhaka</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+    </string-array>
+    <string-array name="cityindia">
+        <item>Hydrabad</item>
+        <item>Kashmir</item>
+        <item>Delhi</item>
+    </string-array>
+    <string-array name="citypakistan">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakista</item>
+    </string-array>
+</resources>
